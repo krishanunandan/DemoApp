@@ -7,4 +7,12 @@
     <string name="address">Address</string>
     <string name="submit">Submit</string>
     <string name="zip_code">Zip Code</string>
+    <string name="email">Email</string>
+    <string name="registration_data">Registration Data</string>
+    <string name="_name">Name -</string>
+    <string name="_email">Email -</string>
+    <string name="_home_mobile">Home Mobile -</string>
+    <string name="_home_phone">Home Phone -</string>
+    <string name="_address">Address -</string>
+    <string name="_zip_code">Zip Code -</string>
 </resources>
